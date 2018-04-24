@@ -1,0 +1,21 @@
+h1{
+  color:blue;
+  }
+h2{
+    color:red;
+  }
+h3{
+    color:orange;
+  }
+img{
+  box-shadow:10px 10px;
+}
+section{
+  background-color:yellow;
+}
+p{
+  font-size: 20px;
+}
+ul{
+  border-style: solid;
+}
